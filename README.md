@@ -1,7 +1,9 @@
 # Insurance Cost Prediction
 
 ## Project Overview
-This project predicts medical insurance charges using Machine Learning.
+
+This project predicts medical insurance charges using Machine Learning techniques. The dataset contains demographic and health-related information such as age, BMI, smoking habits, gender, number of children, and region. Various regression models were trained and evaluated, and Random Forest Regression was selected as the best-performing model. The project covers data preprocessing, exploratory data analysis, model comparison, feature importance analysis, and model saving using Joblib.
+
 
 ## Technologies Used
 - Python
